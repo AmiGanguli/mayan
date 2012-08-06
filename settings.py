@@ -173,6 +173,7 @@ INSTALLED_APPS = (
     'history',
     'main',
     'rest_api',
+    'api',
     'document_signatures',
     'checkouts',
 
